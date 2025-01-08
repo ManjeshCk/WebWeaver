@@ -4,5 +4,5 @@ Projects and experiments from my journey at Dr. Ambedkar Institute of Technology
 
 ## Cprograming
 ## functions
-
+## arrays
 ## memory management
